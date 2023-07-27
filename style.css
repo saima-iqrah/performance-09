@@ -1,0 +1,13 @@
+*{
+  background-color: rgb(255,245,158);
+}
+.jk p{
+  background:fixed rgb(255,245,158) url(images/l.jpg) repeat-x 200px 200px;
+}
+h1{
+  border-style: solid;
+  border-width: 5px 10px;
+  border-color: powderblue;
+  color:purple;
+  text-align: center;
+}
